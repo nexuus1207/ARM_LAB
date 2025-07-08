@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux系统移植开发/实验一、生成Linux镜像.md",
+                "file": "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,21 +168,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6fbc81998beae81f",
+  "active": "9add003fed60ea60",
   "lastOpenFiles": [
+    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.pdf",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.md",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/d4bb76958b7f684c24fa973cf3865e41.jpeg",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708232147.png",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708230924.png",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708230220.png",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708230055.png",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708225921.png",
+    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.md",
+    "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708221324.png",
+    "Linux系统移植开发/实验二、烧录Linux到Flash",
+    "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708202609.png",
+    "Linux系统移植开发/实验一、生成Linux镜像",
     "README.md",
     "新建文本文档.txt",
-    "Linux系统移植开发/Pasted image 20250708221324.png",
-    "Linux系统移植开发/Pasted image 20250708221221.png",
-    "Linux系统移植开发/Pasted image 20250708221018.png",
-    "Linux系统移植开发/Pasted image 20250708215851.png",
-    "Linux系统移植开发/Pasted image 20250708205146.png",
-    "Linux系统移植开发/Pasted image 20250708204014.png",
-    "Linux系统移植开发/Pasted image 20250708203942.png",
-    "Linux系统移植开发/Pasted image 20250708203553.png",
-    "Linux系统移植开发/实验一、生成Linux镜像.md",
-    "Linux系统移植开发/Pasted image 20250708202710.png",
-    "Linux系统移植开发/Pasted image 20250708202609.png",
+    "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708221221.png",
+    "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708221018.png",
     "欢迎.md",
     "Linux系统移植开发"
   ]

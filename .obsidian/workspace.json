@@ -165,29 +165,36 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "9add003fed60ea60",
   "lastOpenFiles": [
-    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.pdf",
+    "lab_guidance.html",
+    "实验一、生成Linux镜像.html",
+    "lib/metadata.json",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/media",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
     "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.md",
+    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.md",
+    "Linux系统移植开发/实验一、生成Linux镜像/lib/media/6155340132a851f6089e.svg",
     "Linux系统移植开发/实验二、烧录Linux到Flash/d4bb76958b7f684c24fa973cf3865e41.jpeg",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708232147.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708230924.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708230220.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708230055.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250708225921.png",
-    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.md",
     "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708221324.png",
-    "Linux系统移植开发/实验二、烧录Linux到Flash",
     "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708202609.png",
-    "Linux系统移植开发/实验一、生成Linux镜像",
     "README.md",
-    "新建文本文档.txt",
-    "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708221221.png",
-    "Linux系统移植开发/实验一、生成Linux镜像/Pasted image 20250708221018.png",
-    "欢迎.md",
-    "Linux系统移植开发"
+    "欢迎.md"
   ]
 }

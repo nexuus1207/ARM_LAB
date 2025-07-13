@@ -28,6 +28,10 @@ sudo apt install bison g++-multilib git gperf libxml2-utils make python-networkx
 &emsp;&emsp;将linux系统源码解压，可得到系统源码
 ![[Pasted image 20250708195848.png]]
 
+>[! note] U-Boot
+>u-boot全称 Universal Boot Loader(通用的引导程序），意思是说，在各种地方都可以用，它是一款开源的引导加载程序（Bootloader）。在嵌入式 Linux 生态中，U-Boot是**最流行**的 Bootloader 之一。现代版本的 U-Boot 已经内置了对 Fastboot 协议的支持。开发者在为特定硬件编译 U-Boot 时，只需开启相应的配置选项，就能让这台嵌入式 Linux 设备支持 Fastboot 功能。
+>Uboot的最终目的是为了启动内核；Linux 内核在设计的时候，设计为是可以被传参的，也就是说我们可以在 Uboot 中事先给 Linux 内核准备一些启动参数放在内存中特定位置，然后再传给Linux内核，Linux内核启动后就会到这个特定的位置拿 Uboot传给它的参数，然后再 Linux 内核中解析这些参数，这些参数将被用来指导 Linux内核的启动过程。
+
 ## 3.编译 U-Boot
 进入Linux源码文件夹，执行下列命令编译U-Boot
 ```shell
@@ -72,3 +76,6 @@ sudo apt install bison g++-multilib git gperf libxml2-utils make python-networkx
 >[!Success]
 >再次输入命令，编译成功，生成了新的Rootfs文件
 >![[Pasted image 20250708221324.png]]
+
+>[! info] 其他编译错误
+>如果碰到其他错误问题，可以参考实验一目录下的`编译Linux时出现的问题及解决方法.txt`

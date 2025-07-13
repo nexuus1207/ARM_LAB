@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ffde42046decad2",
+        "id": "78841a2461ff907e",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb89b9d6621051a",
+            "id": "4b774a016b802322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.md",
+                "file": "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验二、烧录Linux到Flash"
+              "title": "实验四、文件IO读写应用"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux系统移植开发/实验一、生成Linux镜像.md",
+                "file": "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实验一、生成Linux镜像 的反向链接列表"
+              "title": "实验四、文件IO读写应用 的反向链接列表"
             }
           },
           {
@@ -169,18 +169,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9fb89b9d6621051a",
+  "active": "6fbc81998beae81f",
   "lastOpenFiles": [
-    "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.pdf",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.md",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/~4bb76958b7f684c24fa973cf3865e41.tmp",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/d4bb76958b7f684c24fa973cf3865e41.jpeg.~tmp",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.html",
+    "docs/additional_file/实验四/io.tar.gz",
+    "docs/additional_file/实验四",
     "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.md",
-    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.html",
-    "lab_guidance.html",
-    "实验二、烧录Linux到Flash.html",
     "README.md",
+    "docs/additional_file/实验一/编译Linux时出现的问题及解决方法.txt",
+    "docs/additional_file/实验一",
+    "docs/datasheet/SEC_S5P6818X_Users_Manual_preliminary_Ver_0.00.pdf",
+    "docs/additional_file",
+    "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
+    "docs/datasheet",
+    "Linux应用开发部分/实验四、文件IO读写应用",
+    "Linux应用开发部分/实验三、修改开机LOGO/实验三、修改开机LOGO.md",
+    "Linux应用开发部分/实验三、修改开机LOGO/实验三、修改开机LOGO.pdf",
+    "Linux应用开发部分/实验三、修改开机LOGO/c4a0ca75e147b21935d715dd1430eca6.jpeg",
+    "Linux应用开发部分/实验三、修改开机LOGO/Pasted image 20250713182902.png",
+    "Linux应用开发部分/实验三、修改开机LOGO/Pasted image 20250713182813.png",
+    "Linux应用开发部分/实验三、修改开机LOGO",
+    "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.md",
+    "Linux应用开发部分",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713041210.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713040242.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/871c76cb29dff6e23568651f58a958d.jpg",
@@ -188,12 +197,6 @@
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713035424.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713034916.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250712214511.png",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250712214234.png",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250712213908.png",
-    "Linux系统移植开发/实验一、生成Linux镜像/编译Linux时出现的问题及解决方法.txt",
-    "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.pdf",
-    "lib/metadata.json",
-    "lib/media/6155340132a851f6089e.svg",
     "欢迎.md"
   ]
 }

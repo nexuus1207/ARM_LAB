@@ -78,4 +78,4 @@ sudo apt install bison g++-multilib git gperf libxml2-utils make python-networkx
 >![[Pasted image 20250708221324.png]]
 
 >[! info] 其他编译错误
->如果碰到其他错误问题，可以参考实验一目录下的`编译Linux时出现的问题及解决方法.txt`
+>如果碰到其他错误问题，可以参考docs文件夹下的`编译Linux时出现的问题及解决方法.txt`

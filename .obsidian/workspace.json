@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
+                "file": "Linux应用开发部分/实验五、文件上锁应用/实验五、文件上锁应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验四、文件IO读写应用"
+              "title": "实验五、文件上锁应用"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
+                "file": "Linux应用开发部分/实验五、文件上锁应用/实验五、文件上锁应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实验四、文件IO读写应用 的反向链接列表"
+              "title": "实验五、文件上锁应用 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux系统移植开发/实验一、生成Linux镜像.md",
+                "file": "Linux应用开发部分/实验五、文件上锁应用/实验五、文件上锁应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "实验一、生成Linux镜像 的出链列表"
+              "title": "实验五、文件上锁应用 的出链列表"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux系统移植开发/实验一、生成Linux镜像.md",
+                "file": "Linux应用开发部分/实验五、文件上锁应用/实验五、文件上锁应用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实验一、生成Linux镜像 的大纲"
+              "title": "实验五、文件上锁应用 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6fbc81998beae81f",
+  "active": "4b774a016b802322",
   "lastOpenFiles": [
+    "Linux应用开发部分/实验六、IO多路复用/实验六、IO多路复用.md",
+    "docs/additional_file/实验六/select.c",
+    "docs/additional_file/实验六/io_op.c",
+    "docs/additional_file/实验六",
+    "Linux应用开发部分/实验六、IO多路复用/Pasted image 20250716200639.png",
+    "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
+    "Linux应用开发部分/实验六、IO多路复用",
+    "Linux应用开发部分/实验五、文件上锁应用/实验五、文件上锁应用.md",
+    "Linux应用开发部分/实验五、文件上锁应用/Pasted image 20250714172603.png",
+    "Linux应用开发部分/实验五、文件上锁应用/Pasted image 20250714172202.png",
+    "Linux应用开发部分/实验五、文件上锁应用",
     "docs/additional_file/实验四/io.tar.gz",
     "docs/additional_file/实验四",
     "Linux系统移植开发/实验一、生成Linux镜像/实验一、生成Linux镜像.md",
@@ -178,25 +190,15 @@
     "docs/additional_file/实验一/编译Linux时出现的问题及解决方法.txt",
     "docs/additional_file/实验一",
     "docs/datasheet/SEC_S5P6818X_Users_Manual_preliminary_Ver_0.00.pdf",
-    "docs/additional_file",
-    "Linux应用开发部分/实验四、文件IO读写应用/实验四、文件IO读写应用.md",
-    "docs/datasheet",
-    "Linux应用开发部分/实验四、文件IO读写应用",
     "Linux应用开发部分/实验三、修改开机LOGO/实验三、修改开机LOGO.md",
-    "Linux应用开发部分/实验三、修改开机LOGO/实验三、修改开机LOGO.pdf",
     "Linux应用开发部分/实验三、修改开机LOGO/c4a0ca75e147b21935d715dd1430eca6.jpeg",
     "Linux应用开发部分/实验三、修改开机LOGO/Pasted image 20250713182902.png",
     "Linux应用开发部分/实验三、修改开机LOGO/Pasted image 20250713182813.png",
-    "Linux应用开发部分/实验三、修改开机LOGO",
     "Linux系统移植开发/实验二、烧录Linux到Flash/实验二、烧录Linux到Flash.md",
-    "Linux应用开发部分",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713041210.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713040242.png",
     "Linux系统移植开发/实验二、烧录Linux到Flash/871c76cb29dff6e23568651f58a958d.jpg",
     "Linux系统移植开发/实验二、烧录Linux到Flash/微信图片_20250713035851.jpg",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713035424.png",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250713034916.png",
-    "Linux系统移植开发/实验二、烧录Linux到Flash/Pasted image 20250712214511.png",
     "欢迎.md"
   ]
 }
